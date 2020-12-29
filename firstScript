@@ -1,0 +1,2 @@
+use nm
+db.test.find().pretty()
